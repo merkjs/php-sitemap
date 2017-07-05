@@ -489,3 +489,10 @@ Drop me an e-mail or get in touch with me using [![Gitter](https://badges.gitter
 Nil Portugués Calderó
  - <contact@nilportugues.com>
  - http://nilportugues.com
+
+
+## Testing
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM9HHPNJTWCNN7TWH9T3W0VC/x)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM9HHPNJTWCNN7TWH9T3W0VC/x/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM9HHPNJTWCNN7TWH9T3W0VC/y)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM9HHPNJTWCNN7TWH9T3W0VC/y/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM9HHPNJTWCNN7TWH9T3W0VC/z)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM9HHPNJTWCNN7TWH9T3W0VC/z/vote)
